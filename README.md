@@ -22,7 +22,11 @@ Since after mid-exam, group members had some discussion of the further procedure
   - Search for related documentation, online resources, paper works and textbooks
   - Search for genereal procedures of EEG signal analysis along with Machine Learning implementation
   - Explore Sample code + Dataset from several paper works or tutorials to **Find the gaps**
-  
+
+## Current issues (problem and struggling)
+ - Know a bit about EEG signal procesing
+ - Difficulty to understand other research/tutorials did
+ 
 ## Future tasks (including expected, some may not conduct)
   - Revise the gaps (recommendation) from previous studies
   - List out and choose probably appropriate ways to conduct analysis
