@@ -1,7 +1,12 @@
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
 
-This projectis based on Mahcine Learning and EEG signal processing implementation. The online resources are required to explore more about the BCI applications. The main goal of out group is to do comparative and explorative project for extending horizontal knowledge from previous(cited) studies. The aim of this study is not for finding the better performance of modeling (it could be somehow and luckily), but we are going to find the reasons and alternative modeling procedures (Feature Engineering, different model constructions and synthetical exploration).    
+## Title : <To be filled>
+
+This projectis based on Mahcine Learning and EEG signal processing implementation. The online resources are required to explore more about the BCI applications. 
+
+### Major objective
+An aim of our group is to do comparative and explorative project for extending horizontal knowledge from previous(cited) studies. The aim of this study is not for finding the better performance of modeling (it could be somehow and luckily), but we are going to find the reasons and alternative modeling procedures (Feature Engineering, different model constructions and synthetical exploration).    
 
 ## Project progress submission on Sunday 17 October 2021
 
