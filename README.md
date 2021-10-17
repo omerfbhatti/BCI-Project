@@ -12,7 +12,7 @@ An aim of our group is to do comparative and explorative project for extending h
 
 Since after mid-exam, group members had some discussion of the further procedures to conduct the project. Firstly, we would like to accumulate the resources related to the EEG and BCI theme. To make it esily accessible, we made the google spreadsheet for posting the online resources, textbooks and papers about EEG signal processing and ML association. Te link was below.
 
-<p>--> <a href="https://docs.google.com/spreadsheets/d/1-KQw9Vnvt7zA8GI1qACvUyUk9ErQrjMxxLvYnwLkbng/edit">Progress Spreadsheet</a></p>
+<p>--> <a href="https://docs.google.com/spreadsheets/d/1-KQw9Vnvt7zA8GI1qACvUyUk9ErQrjMxxLvYnwLkbng/edit">Literature Review List</a></p>
 <p>--> <a href="https://docs.google.com/presentation/d/1onvEbYd8m2fhh_VmNWWfOw9wzkQQEcACitAkmXtwp90/edit?usp=sharing">Project Slides</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/exp%231_load_eeg_data.ipynb">Experiment #1: Load a single EDF file from Motor Movement/Imagery Dataset</a></p>
 
