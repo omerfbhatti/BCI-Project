@@ -22,8 +22,15 @@ After mid-exam, group members had some discussion of the further procedures to c
   
  ## Project progress submission on Sunday 24 October 2021
  
-This week  is to focus on divide tasks 
-  
+The main tasks of methodology and frameworks was concluded on this week. the main framework is to perform different features (from feature extraction methods) and several ML model sch as genreral ML, CNN, RNN etc. to explore the differences between result with what are the advantages and drawbacks of each analysis ways. References dataset is not summarized yet, but there are 2 intereseting dataset; DEAP and motor imagery datasets.
+
+The provided tasks for each member
+
+- **Thantham:** find the dataset, feature extraction methods, related source code, tools and adjust processing frameworks. 
+- **Omer:** do experiment on artifact removal, dataset exploratory, points of study, and place methodology framwork framworks  
+
+
+
 ## Current tasks
   - Search for related documentation, online resources, research papers and textbooks
   - Search for established procedures of EEG signal analysis along with Machine Learning implementation
