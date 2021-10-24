@@ -3,7 +3,7 @@
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
 
-## Title : _not yet define_
+## Title : Comparison of Various Feature Extraction Methods and Machine Learning Models Experiments on EEG Signal Analysis
 
 This project is based on Machine Learning and EEG signal processing implementation. Online resources are required to explore more about the BCI applications. 
 
