@@ -39,7 +39,7 @@ From group discussion, the study will be conducted to implement the available da
 
 ## Current tasks
   - <s>Search for related documentation, online resources, research papers and textbooks</s>
-  - -[Search for established procedures of EEG signal analysis along with Machine Learning implementation]
+  - <s>Search for established procedures of EEG signal analysis along with Machine Learning implementation</s>
   - Explore Sample code + Dataset from open-source material or tutorials and go through previous research to **Find the gaps**
   - Search for available source code or example to implement te process of EEG signal analysis
   - Explore the CNN models with and related researches about CNN implementation
@@ -47,17 +47,17 @@ From group discussion, the study will be conducted to implement the available da
   - Construc a experiment for feature extraction 1 method and ML model 1 method
 
 ## Current issues (problem and struggling)
- - -[More knowledge required about EEG signal processing]
- - -[Difficulties in understanding other research/tutorials]
+ - <s>More knowledge required about EEG signal processing</s>
+ - <s>Difficulties in understanding other research/tutorials</s>
  - Reconstruct the process of EEG signal analysis
  - Appropriate Dataset used in this project
  - Will the same reconstructed function (from searching) be reused for our project?
  
 ## Future tasks (including expected, some tentative)
-  - -[Revise the gaps (recommendation) from previous studies]
-  - -[List out and choose most appropriate ways to conduct analysis]
+  - <s>Revise the gaps (recommendation) from previous studies</s>
+  - <s>List out and choose most appropriate ways to conduct analysis</s>
   - Construct more modules (Feature extraction and ML models) into experiments
-  - **Add/Drop** the conduction method for feature extraction and model comprison ()
+  - **Add/Drop** the conduction method for feature extraction and model comprison
   - Implement and test the selected procedure as per previous studies suggestions
   - Compare, Discuss and Explore the EEG signal processing using ML in several ways
   - Conclude the project
