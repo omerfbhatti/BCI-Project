@@ -1,4 +1,4 @@
-<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Classification%20Pipeline.png" width="1000" /></p>
+
   
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
@@ -24,10 +24,14 @@ After mid-exam, group members had some discussion of the further procedures to c
  
 The main tasks of methodology and frameworks was concluded on this week. the main framework is to perform different features (from feature extraction methods) and several ML model sch as genreral ML, CNN, RNN etc. to explore the differences between result with what are the advantages and drawbacks of each analysis ways. References dataset is not summarized yet, but there are 2 intereseting dataset; DEAP and motor imagery datasets.
 
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Classification%20Pipeline.png" width="1000" /></p>
+
 The provided tasks for each member
 
 - **Thantham:** find the dataset, feature extraction methods, related source code, tools and adjust processing frameworks. 
 - **Omer:** do experiment on artifact removal, dataset exploratory, points of study, and place methodology framwork framworks  
+- **Cedric:** review and construct ML models or any CNN models for statement solutions for comparison in the project
+- **Arsha:** Review and search for related source codes about feature extractions for several methods for further comparison
 
 
 
