@@ -1,7 +1,7 @@
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
 
-## Title : <To be filled>
+## Title : _not yet define_
 
 This project is based on Machine Learning and EEG signal processing implementation. Online resources are required to explore more about the BCI applications. 
 
@@ -16,7 +16,7 @@ After mid-exam, group members had some discussion of the further procedures to c
 <p>--> <a href="https://docs.google.com/presentation/d/1onvEbYd8m2fhh_VmNWWfOw9wzkQQEcACitAkmXtwp90/edit?usp=sharing">Project Slides</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/exp%231_load_eeg_data.ipynb">Experiment #1: Load a single EDF file from Motor Movement/Imagery Dataset</a></p>
 
-  **To be updated further.... **
+  _To be updated further...._
   
 ## Current tasks
   - Search for related documentation, online resources, research papers and textbooks
