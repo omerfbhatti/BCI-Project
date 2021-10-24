@@ -20,6 +20,10 @@ After mid-exam, group members had some discussion of the further procedures to c
 
   _To be updated further...._
   
+ ## Project progress submission on Sunday 24 October 2021
+ 
+This week  is to focus on divide tasks 
+  
 ## Current tasks
   - Search for related documentation, online resources, research papers and textbooks
   - Search for established procedures of EEG signal analysis along with Machine Learning implementation
