@@ -37,6 +37,10 @@ The provided tasks for each member
 
 From group discussion, the study will be conducted to implement the available dataset for different features with handling several models. Then, comparison will consider whether the results are improved or not. Trying the dataset by various ways might provide the explorative information about the observation explaining more points for future studies about BCI and EEG signal analysis with ML
 
+
+
+<hr />
+
 ## Current tasks
   - <s>Search for related documentation, online resources, research papers and textbooks</s>
   - <s>Search for established procedures of EEG signal analysis along with Machine Learning implementation</s>
