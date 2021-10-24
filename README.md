@@ -24,7 +24,9 @@ After mid-exam, group members had some discussion of the further procedures to c
  
 The main tasks of methodology and frameworks was concluded on this week. the main framework is to perform different features (from feature extraction methods) and several ML model sch as genreral ML, CNN, RNN etc. to explore the differences between result with what are the advantages and drawbacks of each analysis ways. References dataset is not summarized yet, but there are 2 intereseting dataset; DEAP and motor imagery datasets.
 
+<br>
 <p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Classification%20Pipeline.png" width="1000" /></p>
+<br>
 
 The provided tasks for each member
 
@@ -33,20 +35,29 @@ The provided tasks for each member
 - **Cedric:** review and construct ML models or any CNN models for statement solutions for comparison in the project
 - **Arsha:** Review and search for related source codes about feature extractions for several methods for further comparison
 
-
+From group discussion, the study will be conducted to implement the available dataset for different features with handling several models. Then, comparison will consider whether the results are improved or not. Trying the dataset by various ways might provide the explorative information about the observation explaining more points for future studies about BCI and EEG signal analysis with ML
 
 ## Current tasks
-  - Search for related documentation, online resources, research papers and textbooks
-  - Search for established procedures of EEG signal analysis along with Machine Learning implementation
+  - -[Search for related documentation, online resources, research papers and textbooks]
+  - -[Search for established procedures of EEG signal analysis along with Machine Learning implementation]
   - Explore Sample code + Dataset from open-source material or tutorials and go through previous research to **Find the gaps**
+  - Search for available source code or example to implement te process of EEG signal analysis
+  - Explore the CNN models with and related researches about CNN implementation
+  - Artifact removal process
+  - Construc a experiment for feature extraction 1 method and ML model 1 method
 
 ## Current issues (problem and struggling)
- - More knowledge required about EEG signal processing
- - Difficulties in understanding other research/tutorials
+ - -[More knowledge required about EEG signal processing]
+ - -[Difficulties in understanding other research/tutorials]
+ - Reconstruct the process of EEG signal analysis
+ - Appropriate Dataset used in this project
+ - Will the same reconstructed function (from searching) be reused for our project?
  
 ## Future tasks (including expected, some tentative)
-  - Revise the gaps (recommendation) from previous studies
-  - List out and choose most appropriate ways to conduct analysis
+  - -[Revise the gaps (recommendation) from previous studies]
+  - -[List out and choose most appropriate ways to conduct analysis]
+  - Construct more modules (Feature extraction and ML models) into experiments
+  - **Add/Drop** the conduction method for feature extraction and model comprison ()
   - Implement and test the selected procedure as per previous studies suggestions
   - Compare, Discuss and Explore the EEG signal processing using ML in several ways
   - Conclude the project
