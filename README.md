@@ -1,4 +1,4 @@
-<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Classification%20Pipeline.png" width="400" /></p>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Classification%20Pipeline.png" width="1000" /></p>
   
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
