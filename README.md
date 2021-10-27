@@ -37,7 +37,9 @@ From group discussion, the study will be conducted to implement the available da
 
 ## Project progress submission on Sunday 31 October 2021
 
-_Next -> have at least 1 result of experiment......_
+<p><a href="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Motor%20Imagery%20Dataset.png">Brief Description of MI Dataset</a></p>
+<p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%232%20-%20Data%20Loading%20and%20Pre-processing.ipynb">Experiment #2: Loading Data from Motor Movement/Imagery Dataset and performing Pre-processing steps</a></p>
+**Next Task --> Feature Selection** 
 
 <hr />
 
