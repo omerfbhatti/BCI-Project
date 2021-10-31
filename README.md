@@ -58,9 +58,15 @@ This week focused on implementing EEG signal data extracted on epochs data to pe
 
 <br>
 
-The progress of this week is not verified about the correctness of data preprocessing yet. The progress presentation will handle the adjustment of comprehension. This week performed simple feature extraction called CSP that Professor suggested as first feature extraction method. The simple ML models as baseline is logistic regression was used to do classification. The result was not good due to less complexity computation of the model. SVM is also done to examine the result along with LDA (Linear Discriminant Analysis).
+Data Preprocessing steps were carried out. As part of data preprocessing, we bandpass filtered the EEG signals and extracted epochs for training. In addition, feature extraction was performed using spatial filters as per Common Spatial Patterns algorithm (CSP) as first feature extraction method. Python MNE implementation of CSP algorithm was used for this purpose. Three Machine Learning methods were used to analyze the CSP filtered EEG signals. 
 
-Conclusion, these implementations are just example experiment on EEG signal learning. Expectation of this week is not much essential to construct certain analyses to cinclude the prominent way to classification, but there might be some results to assess the proper further ways to do next.
+Experiment design was to use three different datasets to perform classification of signals. First dataset consisted of EEG signals from only one subject. The second dataset had data from two subjects, and the third dataset had data from three subjects.
+
+Logistic Regression was used as baseline model to do classification. Logistic Regression was carried out using both Raw Signal values and CSP values. The results obtained for raw signal values were not good. The model failed to learn the patterns in the data. However, the accuracy achieved for CSP values is quite good for first and second datasets. But, as we increase the subjects in the dataset, the model fails to generalize well to the data. 
+
+SVM and LDA (Linear Discriminant Analysis) algorithms also provide us with similar results, except LDA's performance is quite subpar for second dataset as compared to the other two algorithms.
+
+In conclusion, these implementations demonstrate that these ML methods are quite effective when the dataset is composed of just one subject. However, as we increase the variability in the EEG signal dataset, these models fail to generalize well to the situation. Deep Learning methods are expected to be able to compensate for the situation.
 
 <br>
 
