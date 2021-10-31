@@ -58,7 +58,15 @@ This week focused on implementing EEG signal data extracted on epochs data to pe
 
 <br>
 
-**Next Task --> (Possibly) Artifact Handling & Feature Selection** 
+The progress of this week is not verified about the correctness of data preprocessing yet. The progress presentation will handle the adjustment of comprehension. This week performed simple feature extraction called CSP that Professor suggested as first feature extraction method. The simple ML models as baseline is logistic regression was used to do classification. The result was not good due to less complexity computation of the model. SVM is also done to examine the result along with LDA (Linear Discriminant Analysis).
+
+Conclusion, these implementations are just example experiment on EEG signal learning. Expectation of this week is not much essential to construct certain analyses to cinclude the prominent way to classification, but there might be some results to assess the proper further ways to do next.
+
+<br>
+
+## Project progress submission on Sunday 7 November 2021
+
+**Next Task --> (Possibly) Artifact Handling & More Feature Selection** 
 
 <hr />
 
