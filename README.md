@@ -45,7 +45,7 @@ From group discussion, the study will be conducted to implement the available da
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.3%20-%20Classification%20using%20LDA.ipynb">Experiment #3.3: EEG Classification using CSP and LDA</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.4%20-%20Comparison%20of%20Logistic%20Regression%2C%20SVM%20and%20LDA.ipynb">Experiment #3.4: EEG Classification - Comparison of Logistic Regression, SVM and LDA</a></p>
 <br>
-<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-50.png" width="500" /></p>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-100.png" width="500" /></p>
 <br>
 **Next Task --> (Possibly) Artifact Handling & Feature Selection** 
 
