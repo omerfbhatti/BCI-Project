@@ -37,6 +37,8 @@ From group discussion, the study will be conducted to implement the available da
 
 ## Project progress submission on Sunday 31 October 2021
 
+This week focused on implementing EEG signal data extracted on epochs data to perform classification using several ML models. 
+
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/EEG%20Motor%20Imagery%20Dataset.png">Brief Description of MI Dataset</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%232%20-%20Data%20Loading%20and%20Pre-processing.ipynb">Experiment #2: Loading Data from Motor Movement/Imagery Dataset and performing Pre-processing steps</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%232.4%20-%20Data%20Loading%20and%20Pre-processing%20with%20ICA%20and%20CSP.ipynb">Experiment #2.4: Data Loading & Pre-processing class with ICA and CSP</a></p>
@@ -52,7 +54,9 @@ From group discussion, the study will be conducted to implement the available da
 <br>
 <br>
 <p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-100%20-%20Four%20Subjects.png" width="500" /></p>
+
 <br>
+
 **Next Task --> (Possibly) Artifact Handling & Feature Selection** 
 
 <hr />
