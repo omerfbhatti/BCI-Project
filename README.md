@@ -60,19 +60,19 @@ This week focused on implementing EEG signal data extracted on epochs data to pe
 
 Data Preprocessing steps were carried out. As part of data preprocessing, we bandpass filtered the EEG signals and extracted epochs for training. In addition, feature extraction was performed using spatial filters as per Common Spatial Patterns algorithm (CSP) as first feature extraction method. Python MNE implementation of CSP algorithm was used for this purpose. Three Machine Learning methods were used to analyze the CSP filtered EEG signals. 
 
-Experiment design was to use three different datasets to perform classification of signals. First dataset consisted of EEG signals from only one subject. The second dataset had data from two subjects, and the third dataset had data from three subjects.
+Experiment design was to use three different datasets to perform classification of signals. First dataset consisted of EEG signals from only one subject. The second dataset had data from two subjects, and the third dataset had data from four subjects.
 
 Logistic Regression was used as baseline model to do classification. Logistic Regression was carried out using both Raw Signal values and CSP values. The results obtained for raw signal values were not good. The model failed to learn the patterns in the data. However, the accuracy achieved for CSP values is quite good for first and second datasets. But, as we increase the subjects in the dataset, the model fails to generalize well to the data. 
 
 SVM and LDA (Linear Discriminant Analysis) algorithms also provide us with similar results, except LDA's performance is quite subpar for second dataset as compared to the other two algorithms.
 
-In conclusion, these implementations demonstrate that these ML methods are quite effective when the dataset is composed of just one subject. However, as we increase the variability in the EEG signal dataset, these models fail to generalize well to the situation. Deep Learning methods are expected to be able to compensate for the situation.
+In conclusion, these implementations demonstrate that these ML methods are quite effective when the dataset is composed of just one subject. However, as we increase the variance in the EEG signal dataset, these models fail to generalize well to the situation. Deep Learning methods are expected to be able to compensate for the situation. This is what we will attempt next.
 
 <br>
 
 ## Project progress submission on Sunday 7 November 2021
 
-**Next Task --> (Possibly) Artifact Handling & More Feature Selection** 
+**Next Task --> (Possibly) Artifact Handling, More Feature Selection & Deep Learning** 
 
 <hr />
 
@@ -83,7 +83,7 @@ In conclusion, these implementations demonstrate that these ML methods are quite
   - Search for available source code or example to implement te process of EEG signal analysis
   - Explore the CNN models with and related researches about CNN implementation
   - Artifact handling process
-  - <s>Construc a experiment for feature extraction 1 method and ML model 1 method</s>
+  - <s>Construct an experiment for feature extraction 1 method and ML model 1 method</s>
   - Do different feature extractions out from CSP (Wavelet or Fourier Transform)
   - **Adjust the domain knowledge with members in the group**
 
