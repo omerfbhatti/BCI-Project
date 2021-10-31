@@ -47,6 +47,12 @@ From group discussion, the study will be conducted to implement the available da
 <br>
 <p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-100.png" width="500" /></p>
 <br>
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-100%20-%20Two%20Subjects.png" width="500" /></p>
+<br>
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Comparison%20of%20ML%20Models%20for%20EEG%20Classification-dpi-100%20-%20Four%20Subjects.png" width="500" /></p>
+<br>
 **Next Task --> (Possibly) Artifact Handling & Feature Selection** 
 
 <hr />
