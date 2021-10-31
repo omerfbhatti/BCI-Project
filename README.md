@@ -73,18 +73,22 @@ Conclusion, these implementations are just example experiment on EEG signal lear
 ## Current tasks
   - <s>Search for related documentation, online resources, research papers and textbooks</s>
   - <s>Search for established procedures of EEG signal analysis along with Machine Learning implementation</s>
-  - Explore Sample code + Dataset from open-source material or tutorials and go through previous research to **Find the gaps**
+  - <s>Explore Sample code + Dataset from open-source material or tutorials and go through previous research to **Find the gaps**</s>
   - Search for available source code or example to implement te process of EEG signal analysis
   - Explore the CNN models with and related researches about CNN implementation
-  - Artifact removal process
-  - Construc a experiment for feature extraction 1 method and ML model 1 method
+  - Artifact handling process
+  - <s>Construc a experiment for feature extraction 1 method and ML model 1 method</s>
+  - Do different feature extractions out from CSP (Wavelet or Fourier Transform)
+  - **Adjust the domain knowledge with members in the group**
 
 ## Current issues (problem and struggling)
  - <s>More knowledge required about EEG signal processing</s>
  - <s>Difficulties in understanding other research/tutorials</s>
  - Reconstruct the process of EEG signal analysis
- - Appropriate Dataset used in this project
- - Will the same reconstructed function (from searching) be reused for our project?
+ - <s>Appropriate Dataset used in this project</s>
+ - <s>Will the same reconstructed function (from searching) be reused for our project?</s>
+ - As deep as the process is on going, there is much more unclearity on proper process of EEG Signal
+ - Members comprehensive and domain knowledge in a group have not perfectly adjusted for conducting study together
  
 ## Future tasks (including expected, some tentative)
   - <s>Revise the gaps (recommendation) from previous studies</s>
