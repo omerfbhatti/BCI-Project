@@ -74,12 +74,12 @@ In conclusion, these implementations demonstrate that these ML methods are quite
 
 After 1st progress presentation, the grou has considered the review paper about motor imagery dataset implementation that intructor guided. Consequenly, group aimed to read mentioned paper and additional documentation to make 2 set of purpose combinations of feature extraction and model. Each member will produce about 2 set of interested combination to do analysis and explorative the results. The list of combinations are by following.
 
-| Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 |
-|----------|----------------------|---------|----------------------|---------|
-| Thantham |                      |         |                      |         |
-| Omer     |                      |         |                      |         |
-| Cedric   |                      |         |                      |         |
-| Arsha    |                      |         |                      |         |
+| Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 | Reference |
+|----------|----------------------|---------|----------------------|---------|-----------|
+| Thantham |                      |         |                      |         |           |
+| Omer     |                      |         |                      |         |           |
+| Cedric   |                      |         |                      |         |           |
+| Arsha    |                      |         |                      |         |           |
 
  These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
 
