@@ -72,7 +72,11 @@ In conclusion, these implementations demonstrate that these ML methods are quite
 
 ## Project progress submission on Sunday 7 November 2021
 
-**Next Task --> (Possibly) Artifact Handling, More Feature Selection & Deep Learning** 
+After 1st progress presentation, the grou has considered the review paper about motor imagery dataset implementation that intructor guided. Consequenly, group aimed to read mentioned paper and additional documentation to make 2 set of purpose combinations of feature extraction and model. Each member will produce about 2 set of interested combination to do analysis and explorative the results. The list of combinations are by following.
+
+
+
+ 
 
 <hr />
 
