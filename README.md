@@ -72,12 +72,20 @@ In conclusion, these implementations demonstrate that these ML methods are quite
 
 ## Project progress submission on Sunday 7 November 2021
 
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/results/Comparison%20of%20EEG%20Source%20Subjects%20-%20with%20channel%20selection.png" width="500" /></p>
+
+<br>
+<p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.5%20-%20Comparison%20of%20Models%20-%20With%20Channel%20Selection.ipynb">Experiment #3.5: Comparison of Classification models: With Channel Selection</a></p>
+<p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.6%20-%20Classification%20accuracy%20for%20each%20subject.ipynb">Experiment #3.6: EEG Classification accuracy for individual subjects</a></p>
+
 After 1st progress presentation, the grou has considered the review paper about motor imagery dataset implementation that intructor guided. Consequenly, group aimed to read mentioned paper and additional documentation to make 2 set of purpose combinations of feature extraction and model. Each member will produce about 2 set of interested combination to do analysis and explorative the results. The list of combinations are by following.
 
 | Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 | Reference |
 |----------|----------------------|---------|----------------------|---------|-----------|
 | Thantham |                      |         |                      |         |           |
-| Omer     |                      |         |                      |         |           |
+| Omer     |        CSP           | SVM,LDA,|   Time series, Raw   |CNN+LSTM |           |
+|          |                      | LogReg  |                      |         |           |
 | Cedric   |                      |         |                      |         |           |
 | Arsha    |                      |         |                      |         |           |
 
