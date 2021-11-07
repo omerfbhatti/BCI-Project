@@ -81,7 +81,7 @@ After 1st progress presentation, the grou has considered the review paper about 
 | Cedric   |                      |         |                      |         |
 | Arsha    |                      |         |                      |         |
 
- 
+ These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
 
 <hr />
 
