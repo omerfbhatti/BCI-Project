@@ -83,7 +83,7 @@ After 1st progress presentation, the grou has considered the review paper about 
 
 | Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 | Reference |
 |----------|----------------------|---------|----------------------|---------|-----------|
-| Thantham |                      |         |                      |         |           |
+| Thantham |         CWT             |    CNN+ReLU+GD     |                      |         |           |
 | Omer     |        CSP           | SVM,LDA,|   Time series, Raw   |CNN+LSTM |           |
 |          |                      | LogReg  |                      |         |           |
 | Cedric   |                      |         |                      |         |           |
