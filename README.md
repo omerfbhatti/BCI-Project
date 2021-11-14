@@ -84,7 +84,7 @@ After 1st progress presentation, the grou has considered the review paper about 
 | Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 | Reference |
 |----------|----------------------|---------|----------------------|---------|-----------|
 | Thantham |         CWT             |    CNN+ReLU+GD     |       Tim series             |     RNN    |           |
-| Omer     |        CSP           | SVM,LDA,|   Spectogram         |   CNN   |           |
+| Omer     |        CSP           | SVM,LDA,|   Spectogram, Raw         |   CNN   |           |
 |          |                      | LogReg  |                      |         |           |
 | Cedric   |                      |         |                      |         |           |
 | Arsha    |                      |         |                      |         |           |
@@ -110,7 +110,7 @@ The problem was found that the training loss and validation loss on CNN + Contin
 <br>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%234.0%20-%20CNN%20%2B%20RAW%20%2B%20Channel%20Selection.ipynb">Experiment #4.0: CNN + RAW + Channel Selection</a></p>
 
-Training accuracy on the dataset seems to increase to above 99%, however the validation accuracy is still ~ 50%. This seems to indicate that our model is not able to generalize well to the data which it has not seen before. Dropoff layers have been used in this model and batch normalization has been applied as well. The dataset is composed of 5 subjects (both hands, both feet task) using only <a href=https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full>a single electrode pair C1, C2</a>. This does not seem to affect the training accuracy, which is an improvement over the previous attempt with CSP+SVM/LDA algorithm, however we still cannot predict unseen data with any sort of accuracy.
+Training accuracy on the dataset seems to increase to above 99%, however the validation accuracy is still ~ 50%. This seems to indicate that our model is not able to generalize well to the data which it has not seen before. Dropoff layers have been used in this model and batch normalization has been applied as well. The dataset is composed of 5 subjects (both hands, both feet task) using only <a href=https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full>a single electrode pair C1, C2</a>. This does not seem to affect the training accuracy, which is an improvement over the previous attempt with CSP+SVM/LDA algorithm, however we still cannot predict unseen data with any sort of accuracy. Next we may try using more electrode pairs in conjunction with this data.
 
 ## Project progress submission on Sunday 21 November 2021
 
