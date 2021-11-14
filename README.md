@@ -91,6 +91,13 @@ After 1st progress presentation, the grou has considered the review paper about 
 
  These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
 
+## Project progress submission on Sunday 14 November 2021
+
+According to the interesting modeling for each member, some of the modeling can produce the results, but there were some issues regarding training although following the structure of the model in research.
+
+
+
+
 <hr />
 
 ## Current tasks
