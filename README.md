@@ -107,26 +107,30 @@ The problem was found that the training loss and validation loss on CNN + Contin
   - <s>Search for related documentation, online resources, research papers and textbooks</s>
   - <s>Search for established procedures of EEG signal analysis along with Machine Learning implementation</s>
   - <s>Explore Sample code + Dataset from open-source material or tutorials and go through previous research to **Find the gaps**</s>
-  - Search for available source code or example to implement te process of EEG signal analysis
+  - <s>Search for available source code or example to implement te process of EEG signal analysis</s>
   - Explore the CNN models with and related researches about CNN implementation
-  - Artifact handling process
+  - <s>Artifact handling process</s>
   - <s>Construct an experiment for feature extraction 1 method and ML model 1 method</s>
-  - Do different feature extractions out from CSP (Wavelet or Fourier Transform)
+  - <s>Do different feature extractions out from CSP (Wavelet or Fourier Transform)</s>
   - **Adjust the domain knowledge with members in the group**
+  - Follow the architecture in similar research and adjust the model implementing to construct that model
+  - Find more related models described in similar researches about validation metric problem
 
 ## Current issues (problem and struggling)
  - <s>More knowledge required about EEG signal processing</s>
  - <s>Difficulties in understanding other research/tutorials</s>
- - Reconstruct the process of EEG signal analysis
+ - <s>Reconstruct the process of EEG signal analysis</s>
  - <s>Appropriate Dataset used in this project</s>
  - <s>Will the same reconstructed function (from searching) be reused for our project?</s>
- - As deep as the process is on going, there is much more unclearity on proper process of EEG Signal
+ - <s>As deep as the process is on going, there is much more unclearity on proper process of EEG Signal</s>
  - Members comprehensive and domain knowledge in a group have not perfectly adjusted for conducting study together
+ - Experiments of the models have unexplainable reasons of training set and validations metrics
  
 ## Future tasks (including expected, some tentative)
   - <s>Revise the gaps (recommendation) from previous studies</s>
   - <s>List out and choose most appropriate ways to conduct analysis</s>
-  - Construct more modules (Feature extraction and ML models) into experiments
+  - <s>Construct more modules (Feature extraction and ML models) into experiments</s>
+  - Solve the training set and validation metrics problem as soon as possible
   - **Add/Drop** the conduction method for feature extraction and model comprison
   - Implement and test the selected procedure as per previous studies suggestions
   - Compare, Discuss and Explore the EEG signal processing using ML in several ways
