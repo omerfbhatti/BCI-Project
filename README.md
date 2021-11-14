@@ -101,6 +101,11 @@ Experiment 3.8 -  Perform 10 subjects on fists and feet imagery classification u
 
 The problem was found that the training loss and validation loss on CNN + Continuous Wavelet Transform (CWT) implementation was very good despite bad validation accuracy while good accuracy of training. However, LSTM implementation showed very bad validation metrics and loss while training is very well. These problems will be held in discussion on progress presentation.
 
+
+## Project progress submission on Sunday 21 November 2021
+
+_Conclude all of the experiments and explorations found about the feature extraction along with each modeling..._
+
 <hr />
 
 ## Current tasks
