@@ -95,8 +95,11 @@ After 1st progress presentation, the grou has considered the review paper about 
 
 According to the interesting modeling for each member, some of the modeling can produce the results, but there were some issues regarding training although following the structure of the model in research.
 
+Experiment 3.7 - Perform 10 subjects on fists and feet imagery classification using 64 channels 1-2 second time cue by Modeling of CNN architecture. <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.7%20-%20Classification%20of%20CNN%20with%20CWT.ipynb">Experiment #3.7 - Classification of CNN with CWT</a></p>
 
+Experiment 3.8 -  Perform 10 subjects on fists and feet imagery classification using 64 channels 1-2 second time cue by Modeling of LSTM architecture. <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.8%20-%20Classification%20of%20LSTM%20with%20raw%20signal.ipynb">Experiment #3.8 - Classification of LSTM with raw signal</a></p>
 
+The problem was found that the training loss and validation loss on CNN + Continuous Wavelet Transform (CWT) implementation was very good despite bad validation accuracy while good accuracy of training. However, LSTM implementation showed very bad validation metrics and loss while training is very well. These problems will be held in discussion on progress presentation.
 
 <hr />
 
