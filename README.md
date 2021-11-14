@@ -101,6 +101,16 @@ Experiment 3.8 -  Perform 10 subjects on fists and feet imagery classification u
 
 The problem was found that the training loss and validation loss on CNN + Continuous Wavelet Transform (CWT) implementation was very good despite bad validation accuracy while good accuracy of training. However, LSTM implementation showed very bad validation metrics and loss while training is very well. These problems will be held in discussion on progress presentation.
 
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/results/CNN%20with%20channel%20selection%2C%20C1%20%26%20C2%20-%20Loss%20curves%20Five%20Subjects.png" width="500" /></p>
+
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/results/CNN%20with%20channel%20selection%2C%20C1%20%26%20C2%20-%20Accuracy%20with%20Five%20Subjects.png" width="500" /></p>
+
+<br>
+<p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%234.0%20-%20CNN%20%2B%20RAW%20%2B%20Channel%20Selection.ipynb">Experiment #4.0: CNN + RAW + Channel Selection</a></p>
+
+Training accuracy on the dataset seems to increase to above 99%, however the validation accuracy is still ~ 50%. This seems to indicate that our model is not able to generalize well to the data which it has not seen before. Dropoff layers have been used in this model and batch normalization has been applied as well. The dataset is composed of 5 subjects (both hands, both feet task) using only <a href=https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full>a single electrode pair C1, C2</a>. This does not seem to affect the training accuracy, which is an improvement over the previous attempt with CSP+SVM/LDA algorithm, however we still cannot predict unseen data with any sort of accuracy.
 
 ## Project progress submission on Sunday 21 November 2021
 
