@@ -87,7 +87,7 @@ After 1st progress presentation, the grou has considered <a href="https://www.sc
 | Omer     |        CSP           | SVM,LDA,|   Spectogram, Raw         |   CNN   |           |
 |          |                      | LogReg  |                      |         |           |
 | Cedric   |                |     CNN (2 conv, 2 fc)    |     Raw                 |         |           |
-| Arsha    |                      |       Merged CNNs |                      |         |           |
+| Arsha    |                      |       CNN, SVM |                      |         |           |
 
  These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
 
