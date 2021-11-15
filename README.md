@@ -86,7 +86,7 @@ After 1st progress presentation, the grou has considered <a href="https://www.sc
 | Thantham |         CWT             |    CNN+ReLU+GD     |       Tim series             |     RNN    |           |
 | Omer     |        CSP           | SVM,LDA,|   Spectogram, Raw         |   CNN   |           |
 |          |                      | LogReg  |                      |         |           |
-| Cedric   |                      |         |                      |         |           |
+| Cedric   |                |     CNN (2 conv, 2 fc)    |     Raw                 |         |           |
 | Arsha    |                      |         |                      |         |           |
 
  These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
