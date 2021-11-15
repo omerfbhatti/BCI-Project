@@ -79,15 +79,15 @@ In conclusion, these implementations demonstrate that these ML methods are quite
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.5%20-%20Comparison%20of%20Models%20-%20With%20Channel%20Selection.ipynb">Experiment #3.5: Comparison of Classification models: With Channel Selection</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%233.6%20-%20Classification%20accuracy%20for%20each%20subject.ipynb">Experiment #3.6: EEG Classification accuracy for individual subjects</a></p>
 
-After 1st progress presentation, the grou has considered the review paper about motor imagery dataset implementation that intructor guided. Consequenly, group aimed to read mentioned paper and additional documentation to make 2 set of purpose combinations of feature extraction and model. Each member will produce about 2 set of interested combination to do analysis and explorative the results. The list of combinations are by following.
+After 1st progress presentation, the grou has considered <a href="https://www.sciencedirect.com/science/article/pii/S1746809420303116">the review paper about motor imagery dataset implementation</a> that instructor guided. Consequenly, group aimed to read mentioned paper and additional documentation to make 2 set of purpose combinations of feature extraction and model. Each member will produce about 2 set of interested combination to do analysis and explorative the results. The list of combinations are by following.
 
 | Member   | Feature extraction 1 | Model 1 | Feature extraction 2 | Model 2 | Reference |
 |----------|----------------------|---------|----------------------|---------|-----------|
 | Thantham |         CWT             |    CNN+ReLU+GD     |       Tim series             |     RNN    |           |
-| Omer     |        CSP           | SVM,LDA,|   Spectogram         |   CNN   |           |
+| Omer     |        CSP           | SVM,LDA,|   Spectogram, Raw         |   CNN   |           |
 |          |                      | LogReg  |                      |         |           |
-| Cedric   |                      |         |                      |         |           |
-| Arsha    |                      |         |                      |         |           |
+| Cedric   |                |     CNN (2 conv, 2 fc)    |     Raw                 |         |           |
+| Arsha    |                      |       CNN, SVM|                      |         |           |
 
  These combinations are based on the interest of member and reviewing paper about popularity of motor imagery implementations. Members will perform these analyses to explore the reason an related representation about results including support issues. 
 
@@ -101,6 +101,16 @@ Experiment 3.8 -  Perform 10 subjects on fists and feet imagery classification u
 
 The problem was found that the training loss and validation loss on CNN + Continuous Wavelet Transform (CWT) implementation was very good despite bad validation accuracy while good accuracy of training. However, LSTM implementation showed very bad validation metrics and loss while training is very well. These problems will be held in discussion on progress presentation.
 
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/results/CNN%20with%20channel%20selection%2C%20C1%20%26%20C2%20-%20Loss%20curves%20Five%20Subjects.png" width="500" /></p>
+
+<br>
+<p><img src="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/results/CNN%20with%20channel%20selection%2C%20C1%20%26%20C2%20-%20Accuracy%20with%20Five%20Subjects.png" width="500" /></p>
+
+<br>
+<p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/Experiment%20%234.0%20-%20CNN%20%2B%20RAW%20%2B%20Channel%20Selection.ipynb">Experiment #4.0: CNN + RAW + Channel Selection</a></p>
+
+Training accuracy on the dataset seems to increase to above 99%, however the validation accuracy is still ~ 50%. This seems to indicate that our model is not able to generalize well to the data which it has not seen before. Dropoff layers have been used in this model and batch normalization has been applied as well. The dataset is composed of 5 subjects (both hands, both feet task) using only <a href=https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full>a single electrode pair C1, C2</a>. This does not seem to affect the training accuracy, which is an improvement over the previous attempt with CSP+SVM/LDA algorithm, however we still cannot predict unseen data with any sort of accuracy. Next we may try using more electrode pairs in conjunction with this data.
 
 ## Project progress submission on Sunday 21 November 2021
 
