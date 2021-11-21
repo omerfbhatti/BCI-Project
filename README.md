@@ -114,7 +114,14 @@ Training accuracy on the dataset seems to increase to above 99%, however the val
 
 ## Project progress submission on Sunday 21 November 2021
 
-_Conclude all of the experiments and explorations found about the feature extraction along with each modeling..._
+From group meeting with Professor reccommendations, this week is about to assign each member focusing on modeling the EEG data into any mode form. the expected accuracy from training is around 80% as baseline. However, members in the group would like to construct the model using by following structure as least.
+
+**Thantham:** LSTM + Attention, CNN+LSTM (if possible)
+**Omer:**
+**Cedric:**
+**Arsha:**
+
+For further discussion, we would like to discuss about the differences among the models each member has and try to explore the reason and the things we found.
 
 <hr />
 
