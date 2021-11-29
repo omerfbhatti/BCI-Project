@@ -118,7 +118,7 @@ Training accuracy on the dataset seems to increase to above 99%, however the val
 From group meeting with Professor reccommendations, this week is about to assign each member focusing on modeling the EEG data into any mode form. the expected accuracy from training is around 80% as baseline. However, members in the group would like to construct the model using by following structure as least.
 
 **Thantham:** LSTM + Attention, CNN+LSTM (if possible) <br>
-**Omer:**<br>
+**Omer:** CSP + SVM/LDA + Hyperparameter optimization, Raw + CNN (2 electrodes), Raw + RNN, STFT + CNN ( Final Selection: CSP + SVM/LDA 82% avg accuracy achieved)<br>
 **Cedric:**<br>
 **Arsha:**<br>
 
