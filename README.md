@@ -3,7 +3,7 @@
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
 
-## Title : Comparative Study of Various Feature Extraction Methods and Machine Learning Models for EEG Signal Analysis
+## Title : Explorative Study of Machine Learning Modeling of EEG Physionet Dataset
 
 This project is based on Machine Learning and EEG signal Analysis for BCI applications. Online resources are required to explore more about the BCI applications. 
 
@@ -17,7 +17,7 @@ After mid-exam, group members had some discussion of the further procedures to c
 <p>--> <a href="https://docs.google.com/spreadsheets/d/1-KQw9Vnvt7zA8GI1qACvUyUk9ErQrjMxxLvYnwLkbng/edit">Literature Review List</a></p>
 <p>--> <a href="https://docs.google.com/presentation/d/1onvEbYd8m2fhh_VmNWWfOw9wzkQQEcACitAkmXtwp90/edit?usp=sharing">Project Slides</a></p>
 <p>--> <a href="https://github.com/omerfbhatti/BCI-Project/blob/main/Experiments/exp%231_load_eeg_data.ipynb">Experiment #1: Load a single EDF file from Motor Movement/Imagery Dataset</a></p>
-<p>--> <a href="https://docs.google.com/document/d/1MzG55Z7n9ruz3DA5k3H2L-EImwF2AnuodQMJScoflkw/edit?usp=sharing">Paper Report</a></p>
+
   
  ## Project progress submission on Sunday 24 October 2021
  
