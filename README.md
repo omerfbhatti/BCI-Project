@@ -3,7 +3,7 @@
 # BCI Project
 Brain Computer Interface Project as part of "Programming for DSAI" course at AIT
 
-## Title : Explorative Study of Various Feature Extraction Methods and Machine Learning Models for EEG Signal Analysis
+## Title : Explorative Study of Machine Learning Modeling of EEG Physionet Dataset
 
 This project is based on Machine Learning and EEG signal Analysis for BCI applications. Online resources are required to explore more about the BCI applications. 
 
